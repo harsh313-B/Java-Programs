@@ -1,0 +1,3 @@
+content from file 1
+
+"these are the content from file 1"
